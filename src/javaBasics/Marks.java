@@ -1,3 +1,5 @@
+package javaBasics;
+
 import java.util.Scanner;
 
 public class Marks {

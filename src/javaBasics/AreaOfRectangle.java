@@ -1,3 +1,5 @@
+package javaBasics;
+
 public class AreaOfRectangle {
 
     public static void main(String[] args) {

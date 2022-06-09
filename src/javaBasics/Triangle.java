@@ -1,3 +1,5 @@
+package javaBasics;
+
 import java.util.Scanner;
 
 public class Triangle {
@@ -20,16 +22,16 @@ public class Triangle {
         if(a+b+c==180 && a>0 && b>0 && c>0) {
 
             if (a == b && b == c)
-                System.out.println("Equilateral Triangle");
+                System.out.println("Equilateral javaBasics.Triangle");
 
             if (a != b && b != c && c != a)
-                System.out.println("Scalene Triangle");
+                System.out.println("Scalene javaBasics.Triangle");
 
             if (a == 90 || b == 90 || c == 90)
-                System.out.println("Right angled Triangle");
+                System.out.println("Right angled javaBasics.Triangle");
 
             if ((a == b && b != c) || (b == c && c != a) || (c == a && a != b))
-                System.out.println("isosceles Triangle");
+                System.out.println("isosceles javaBasics.Triangle");
 
         }
         else

@@ -1,3 +1,5 @@
+package loops;
+
 public class WhileDemo1 {
 
     public static void main(String[] args) {
