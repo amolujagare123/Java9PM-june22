@@ -3,11 +3,11 @@ package ClassesNConstructors.pack1;
 public class Java1 {
 
     public int a;
-    /*private*/ double d;
+   /* private*/ double d;
     protected char c;
     String str; // data members
 
-    void display() // member function
+    public void display() // member function
     {
         System.out.println("a="+a);
         System.out.println("d="+d);
