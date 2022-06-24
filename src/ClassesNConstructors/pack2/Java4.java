@@ -8,8 +8,15 @@ public class Java4 extends Java1 {
     public static void main(String[] args) {
 
 
-       Java4 ob = new Java4();
+       /* Java1 ob = new Java1();
 
-        ob.c = 'g';
+        ob.a = 89 ;
+        ob.d = 56.4;
+*/
+        Java4 j4 = new Java4();
+
+        j4.d = 90.56;
+
+
     }
 }

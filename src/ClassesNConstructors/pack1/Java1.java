@@ -3,7 +3,7 @@ package ClassesNConstructors.pack1;
 public class Java1 {
 
     public int a;
-   /* private*/ double d;
+   /* private*/  protected double d;
     protected char c;
     String str; // data members
 
