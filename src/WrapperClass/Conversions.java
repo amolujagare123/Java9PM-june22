@@ -38,5 +38,7 @@ public class Conversions {
 
        // find how to convert string into char
 
+        char c = s6.charAt(0);
+
     }
 }
